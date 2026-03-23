@@ -1,0 +1,30 @@
+LLPI Design docs
+
+Small scope for now.
+Todo:
+- Source -> Lexer
+
+Core Modules
+
+- Lua Lexer
+- Parser
+- IR (custom language)
+- Code generator (bytecode and normal code?)
+
+Processes
+
+Source code -> Lexer -> Parser / AST -> Custom Processes -> IR -> IR Processing -> Code generation
+
+- Interuptable (Flags)
+A dump IR flag will dump the IR to stdout or a file. (depends on use.)
+
+- IR Processing
+Optimization Levels
+Inlining <- could also be done with a macro?
+Compile-time eval
+
+Intermediate Representation language?
+
+- Needs to be simple.
+- Easily parseable with string captures?
+- Like assembly <- definitive?
