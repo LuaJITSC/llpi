@@ -28,4 +28,3 @@ Intermediate Representation language?
 
 - Needs to be simple.
 - Easily parseable with string captures?
-- Like assembly <- definitive?
