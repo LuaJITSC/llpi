@@ -13,7 +13,8 @@ Core Modules
 
 Processes
 
-Source code -> Lexer -> Parser / AST -> Custom Processes -> IR -> IR Processing -> Code generation
+Source code -> Lexer -> Parser / AST -> Custom Processes -> IR -> IR Processing
+-> Code generation
 
 - Interuptable (Flags)
 A dump IR flag will dump the IR to stdout or a file. (depends on use.)
