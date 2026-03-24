@@ -28,3 +28,10 @@ Intermediate Representation language?
 
 - Needs to be simple.
 - Easily parseable with string captures?
+- Like assembly <- definitive?
+
+Structure
+
+- Modular, the end user decides what parts of the library to use.
+- Modules / classes are sorted in folders. Folder names are up to developers
+to decide.
