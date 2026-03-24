@@ -3,6 +3,7 @@ LLPI Design docs
 Small scope for now.
 Todo:
 - Source -> Lexer
+- Intermediate Representation Language
 
 Core Modules
 
